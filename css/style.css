@@ -1,0 +1,48 @@
+
+      body {
+        font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+      }
+
+      .form-container{
+          width: 100%;
+          height: auto;
+          margin-top: 100px;
+      }
+      form {
+        width: 350px;
+        border-style: ridge;
+        border-color: aliceblue;
+        border-radius: 25px;
+        box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+        padding: 30px;
+        margin: 0 auto;
+      }
+
+      label {
+        margin-left: 30px;
+      
+      }
+      input {
+        width: 250px;
+        border-radius: 10px;
+        border-style: ridge;
+        border-color: aliceblue;
+        margin-bottom: 10px;
+        margin-top: 3px;
+        margin-left: 30px;
+        height: 2.5em;
+      }
+
+      .ingresar {
+        width: 150px;
+        height: 35px;
+        margin-left: 85px;
+        background-color: crimson;
+        color: white;
+      }
+
+      .text-ingresar{
+          text-align: center;
+          font-size: 1.5em;
+          font-weight: bold;
+      }
